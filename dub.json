@@ -1,0 +1,14 @@
+{
+	"name": "hello",
+	"authors": [
+		"peerh"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2017, peerh",
+	"license": "proprietary",
+	"dependencies":
+	{
+		"gfm": "~>6.2.12"
+	},
+	"targetPath": "bin"
+}
